@@ -142,4 +142,4 @@ React (Vite) → FastAPI → Celery Worker → PostgreSQL + Redis
 
 ## License
 
-MIT
+[MIT](LICENSE)
