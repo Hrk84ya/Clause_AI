@@ -1,0 +1,7 @@
+DOCX-PLACEHOLDER
+This is a placeholder file for testing purposes.
+It is NOT a valid DOCX. Tests that require real DOCX parsing should mock the parser.
+
+The actual content this represents is a simple service agreement contract
+between a client and a service provider covering scope of work, payment terms,
+liability limitations, and termination clauses.

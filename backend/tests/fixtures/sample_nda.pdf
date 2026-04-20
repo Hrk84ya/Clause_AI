@@ -1,0 +1,6 @@
+%PDF-PLACEHOLDER
+This is a placeholder file for testing purposes.
+It is NOT a valid PDF. Tests that require real PDF parsing should mock the parser.
+
+The actual content this represents is a simple 2-page Non-Disclosure Agreement (NDA)
+between two parties for the purpose of sharing confidential business information.
